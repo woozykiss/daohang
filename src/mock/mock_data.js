@@ -7,6 +7,13 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "libvio",
+          "name": "Libvio",
+          "url": "https://libvio.me",
+          "description": "Libvio 在线影视网站",
+          "icon": "src/data/logo/Libvio.png"
+        },
+        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
